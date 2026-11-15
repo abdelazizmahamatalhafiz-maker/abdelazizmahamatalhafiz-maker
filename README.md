@@ -13,8 +13,9 @@ I hold a Bachelor's degree in **Applied Computer Science for Management (Informa
 
 ---
 
-### 🚀 Featured Project
-- **[Biz-Pilot Pro](https://github.com)**: A secure multi-cash management dashboard and client receipt generator designed for retail businesses and entrepreneurs.
+### 🚀 Featured Projects
+1. **[Biz-Pilot Pro](https://github.com)** *(Python / Streamlit / Security)* — A secure multi-cash management dashboard and client receipt generator with SHA-256 authentication.
+2. **[ShopLink WhatsApp](https://github.com/abdelazizmahamatalhafiz-maker/ShopLink-WhatsApp)** *(HTML5 / CSS3 / JavaScript)* — A fast, zero-backend e-commerce catalog with live search and direct WhatsApp checkout ([Live Demo](https://github.io)).
 
 ---
 
